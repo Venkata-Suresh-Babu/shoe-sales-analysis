@@ -128,6 +128,42 @@ Date (Month)
 
 # Python visualizations.
 
+<img width="1196" height="800" alt="1  Data Structure   Quality Overview" src="https://github.com/user-attachments/assets/9aaedb31-7106-4a02-a7ae-21012e1d17c9" />
+
+<img width="1196" height="1200" alt="2  Comprehensive Numerical Variables Analysis" src="https://github.com/user-attachments/assets/cc1d8358-6fb9-4bd1-9e19-f4c85b0b2a48" />
+
+<img width="1196" height="1200" alt="3  Categorical Variables Analysis" src="https://github.com/user-attachments/assets/b43c8f17-d10a-4173-9aef-274dc95de95a" />
+
+<img width="1196" height="600" alt="4  Price vs Revenue by Shoe Type (Size = Units Sold)" src="https://github.com/user-attachments/assets/9c9fb5fd-d4e6-42c3-90fa-d610750669d7" />
+
+<img width="1196" height="500" alt="5  Units Sold vs Revenue by Sales Channel" src="https://github.com/user-attachments/assets/3e06cf16-8f1b-46c9-ba4a-d5c120ee360f" />
+
+<img width="1196" height="800" alt="6  Price Distribution Across Categories" src="https://github.com/user-attachments/assets/cb0babaf-fd13-44b9-b634-15680cc8a823" />
+
+<img width="1196" height="500" alt="7  Correlation Matrix - Numerical Variables" src="https://github.com/user-attachments/assets/b9abf41f-56f5-4ee6-9398-1413e8104d45" />
+
+<img width="1196" height="800" alt="8  Pairplot Analysis" src="https://github.com/user-attachments/assets/4950938a-6fef-4f40-9b84-9162f8ff6683" />
+
+<img width="1196" height="1200" alt="9  Comprehensive Revenue Analysis" src="https://github.com/user-attachments/assets/b58352de-1931-4f87-a290-fcf7b65c7770" />
+
+<img width="1196" height="1400" alt="10  Comprehensive Time Series Analysis" src="https://github.com/user-attachments/assets/48f00488-0c4a-442b-97aa-e682e4d738fa" />
+
+<img width="1196" height="500" alt="11  Revenue Matrix - Brand x Shoe Type" src="https://github.com/user-attachments/assets/12882925-fab9-489b-9373-a2c5c4780e38" />
+
+<img width="1196" height="500" alt="12  Revenue Matrix - Country x Channel" src="https://github.com/user-attachments/assets/e8ae8e2b-dd18-401a-a93c-c440caf4d7ee" />
+
+<img width="1196" height="450" alt="13  3D Visualization - Price x Units x Revenue" src="https://github.com/user-attachments/assets/83d3fcb9-9278-4787-9fb1-8102712c9c06" />
+
+<img width="1196" height="600" alt="14  Parallel Categories - Multi-dimensional Analysis" src="https://github.com/user-attachments/assets/496bbf7a-5082-4029-ac9b-7841b2064816" />
+
+<img width="1196" height="700" alt="15  Revenue Hierarchy - Country - Channel - Brand - Product" src="https://github.com/user-attachments/assets/7867111f-af9e-4e15-ab5f-3c87d7cf00c8" />
+
+<img width="1196" height="800" alt="16  Revenue Distribution Statistical Analysis" src="https://github.com/user-attachments/assets/bdb5d218-deb2-420f-be81-203445c50f33" />
+
+<img width="1196" height="600" alt="17  Executive Insights   Action Plan" src="https://github.com/user-attachments/assets/c5ccc7ee-9a94-41b3-85ad-c83fb73b8d54" />
+
+<img width="1196" height="450" alt="18  KPI Dashboard" src="https://github.com/user-attachments/assets/2cf3ea3a-63db-47b4-b72e-66ab28a8b8e9" />
+
 # 🙌 Acknowledgements
 
 This project is part of my learning journey in Data Analytics and Power BI, focused on building real-world business dashboards.
