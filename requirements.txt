@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+plotly
+seaborn
+ipykernel
+statsmodels
+scipy
+nbformat
+networkx
+dash
